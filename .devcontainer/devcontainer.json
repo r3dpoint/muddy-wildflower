@@ -36,7 +36,9 @@
             "extensions": [
                 "davidanson.vscode-markdownlint",
                 "dbaeumer.vscode-eslint",
-                "esbenp.prettier-vscode"
+                "esbenp.prettier-vscode",
+                // "Orta.vscode-jest",
+                "firsttris.vscode-jest-runner"
             ]
         }
     },
